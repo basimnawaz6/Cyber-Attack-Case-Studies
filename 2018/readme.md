@@ -11,7 +11,7 @@ Each attack has its own folder containing:
 
 | Attack Name                    | Date (Public Disclosure) | Type                          | Report Link |
 |--------------------------------|--------------------------|-------------------------------|-------------|
-| **Marriott International Data Breach** | November 30, 2018 | State-Sponsored APT / Data Breach | [View Details](./Marriott-Data-Breach) |
+| **Marriott International Data Breach** | November 30, 2018 | State-Sponsored APT / Data Breach | [View Details](./Marriott-Data-Breach-2018) |
 
 ---
 
