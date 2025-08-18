@@ -9,8 +9,9 @@ The goal of this repository is to serve as a **learning resource** for cybersecu
 Each folder corresponds to a year and contains case studies of major cyber incidents from that year.
 
 | Year | Folder Link | Description |
-|------|------------|-------------|
+|------|-------------|-------------|
 | **2017** | [2017](./2017) | Includes major attacks like WannaCry ransomware. |
+| **2018** | [2018](./2018) | Includes major attacks like the Marriott International Data Breach. |
 
 ---
 
@@ -31,18 +32,18 @@ All reports follow the same standardized format to ensure consistency:
 
 ## 🎯 Purpose
 This repository is intended for:
-- **Students** – Learning from real-world cybersecurity cases.
-- **Security Professionals** – Studying past attacks to improve defenses.
-- **Researchers** – Analyzing attack patterns and mitigation strategies.
+- **Students** – Learning from real-world cybersecurity cases.  
+- **Security Professionals** – Studying past attacks to improve defenses.  
+- **Researchers** – Analyzing attack patterns and mitigation strategies.  
 
 ---
 
 ## 📌 How to Use
-- Navigate to a specific **year folder**.
-- Open the attack’s folder to find:
-  - A **README.md** summarizing the incident.
-  - A **PDF report** with in-depth details.
-- Compare case studies across years to identify trends in cyber threats.
+- Navigate to a specific **year folder**.  
+- Open the attack’s folder to find:  
+  - A **README.md** summarizing the incident.  
+  - A **PDF report** with in-depth details.  
+- Compare case studies across years to identify trends in cyber threats.  
 
 ---
 
