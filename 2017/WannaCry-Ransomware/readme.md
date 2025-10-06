@@ -33,7 +33,7 @@ Once inside, WannaCry encrypted user files, appending `.WCRY` to filenames, and 
 3. **Payload Execution**  
    Deployed ransomware component to encrypt files and display a ransom note demanding Bitcoin.
 4. **Kill Switch**  
-   Security researcher Marcus Hutchins accidentally stopped the first wave by registering a hidden “kill switch” domain found in the malware code.
+   Security researcher Marcus Hutchins accidentally stopped the first wave by registering a hidden “kill switch” domain found in the malware code: before executing, it would query the domain iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 
 ---
 
